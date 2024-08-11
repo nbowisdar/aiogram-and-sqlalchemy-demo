@@ -1,4 +1,9 @@
 venv/
 .idea/
-/docker-compose.yml
-/.env
+docker-compose.yml
+__pycache__
+.env
+*.pptx
+foo.py
+*.sqlite3
+*.db
